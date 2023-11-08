@@ -1,13 +1,13 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>Flying Mind</title>
-    <link>https://ruizhii.github.io/</link>
-    <description>Recent content on Flying Mind</description>
+    <title>Posts on Flying Mind</title>
+    <link>https://ruizhii.github.io/posts/</link>
+    <description>Recent content in Posts on Flying Mind</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     <lastBuildDate>Thu, 09 Nov 2023 00:58:08 +0800</lastBuildDate>
-    <atom:link href="https://ruizhii.github.io/index.xml" rel="self" type="application/rss+xml" />
+    <atom:link href="https://ruizhii.github.io/posts/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Structure Project Directory by Domain Resposibility</title>
       <link>https://ruizhii.github.io/posts/structure-project-directory-by-domain-resposibility/</link>

@@ -4,8 +4,6 @@ date = 2023-11-09T00:58:08+08:00
 draft = false
 +++
 
-# Structure Project Directory by Domain Resposibility
-
 As a backend developer at a startup company, I often jumps between multiple projects, and the scale ranging from small
 to medium. As a result, I often find myself asking the question, "How to structure the project, so that everyone can
 easily jump in and understand everything they need to in order to complete a task?".
